@@ -1,4 +1,3 @@
-![sunset-monument-valley-silhouettes-majestically-eroded-sandstone-generative-ai](https://github.com/user-attachments/assets/c5b3fcd3-3c89-4172-90d4-27aecf5f9bf3)
 <h1 align="center">Hi 👋, I'm Manoj Bhat</h1>
 <h3 align="center">A passionate Software developer</h3>
 
